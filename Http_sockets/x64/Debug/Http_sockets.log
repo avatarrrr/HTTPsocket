@@ -1,0 +1,3 @@
+﻿  Http_sockets.cpp
+D:\My Portfollio\C_Projects\Http_sockets\Http_sockets\Http_sockets.cpp(72,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Http_sockets.vcxproj -> D:\My Portfollio\C_Projects\Http_sockets\x64\Debug\Http_sockets.exe
